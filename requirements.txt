@@ -1,0 +1,6 @@
+robotframework
+robotframework-requests
+robotframework-seleniumlibrary
+robotframework-browser
+robotframework-jsonlibrary
+robotframework-pythonlibcore
